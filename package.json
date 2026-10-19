@@ -1,0 +1,9 @@
+{
+  "name": "chepe-delivery",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sistema de administración y facturación de Chepe Delivery (Supabase + Netlify)",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0"
+  }
+}
